@@ -1,1 +1,12 @@
-# chess_app_react_node
+# Chess App
+
+## Frontend
+
+- React
+- Typescript
+
+## Backend 
+
+- Node
+- Express
+- Mongo
